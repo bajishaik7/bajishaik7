@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Baji Shaik
 - 👀 I’m interested in Mobile App Developement
-- 🌱 I’m currently doing internship as Flutter dev.
+- 🌱 I’m having good knowledge in api integration,firease and statemanagement
 - 💞️ I’m looking to collaborate on real world projects
 
 <!---
